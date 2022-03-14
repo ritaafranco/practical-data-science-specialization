@@ -1,4 +1,4 @@
-# Pratical Data Science Specialization
+# Practical Data Science Specialization
 This repo contains materials from the <b><a target="blank" href="https://www.deeplearning.ai/program/practical-data-science-specialization/">Deeplearning.AI's Practical Data Science Specialization</a></b> offered by Coursera. Focuses on NLP, BERT, AutoML, ML Models Optimization and Deployment using AWS Sagemaker.
 
 The Specialization consists on 3 courses.
